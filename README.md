@@ -15,5 +15,14 @@
 
 ![image](https://user-images.githubusercontent.com/69345371/120926943-9dc16200-c711-11eb-9ac0-53150f91c857.png)
 
-下图为某一天
+下图为某一天不同时段内在库车数量
 
+![image](https://user-images.githubusercontent.com/69345371/120927113-4e2f6600-c712-11eb-917a-ef3149d93861.png)
+
+下图为一个月内工作日与周末的不同时段内在库车总数最大值
+
+![image](https://user-images.githubusercontent.com/69345371/120927144-6606ea00-c712-11eb-955e-5810fe85714f.png)
+
+下图为不同业主停车时段的甘特图。每一个横条代表一个业主停车记录的在库时间段。起始点为当天入库的时刻，终止点为当次停车的离开时刻（限制停车时长小于24小时）
+
+![image](https://user-images.githubusercontent.com/69345371/120927181-8c2c8a00-c712-11eb-97fe-391cd4d044eb.png)
